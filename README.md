@@ -1,6 +1,2 @@
 # zama-commit-test
-just a test
-2
-just learning 
-hello
-5
+1
